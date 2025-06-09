@@ -22,9 +22,9 @@ venv/
 Thumbs.db
 
 # Output files
-*.xlsx
-*.csv
-*.png
+#*.xlsx
+#*.csv
+#*.png
 
 # Logs
 *.log
